@@ -1,7 +1,7 @@
 import { Component, createRef } from 'react';
 import './App.css';
 
-class App extends Component 
+class AppClass extends Component 
 {
   constructor(){
     super();
@@ -25,4 +25,4 @@ class App extends Component
   }
 }
 
-export default App;
+export default AppClass;
